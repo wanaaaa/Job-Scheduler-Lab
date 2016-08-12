@@ -25,7 +25,7 @@ In this lab, you will create multiple JobServices to update various pieces of in
 
 - Create at least 2 jobs that update two different pieces of information under the same constraints
 
-- Create 1 job that updates a fourth piece of information under a different constraint.
+- Create a third job that updates a third piece of information under a different constraint.
 
 - Display both the data prior to the job running and the data that is replacing it after the job runs. If the job has not run yet, show nothing for the replacement data.
 
